@@ -3,7 +3,9 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
 public class CognomeNomeTest_A {
-
+/*
+ * questa e la modifica per fare il secondo commit
+ */
 	@Test
    public void testCognomeNomeClass1() {
 		//fail("Not yet implemented");
