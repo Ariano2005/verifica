@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"CognomeNomeClass","l":"cognomeMet(int, int)","u":"cognomeMet(int,int)"},{"p":"<Unnamed>","c":"CognomeNomeClass","l":"CognomeNomeClass()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"CognomeNomeClass","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
